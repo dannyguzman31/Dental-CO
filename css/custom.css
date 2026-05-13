@@ -42,10 +42,10 @@
 /************************************/	
 
 :root{
-	--primary-color			: #0E384C;
+	--primary-color			: #142346;
 	--secondary-color		: #EFF8FF;
 	--text-color			: #527282;
-	--accent-color			: #1E84B5;
+	--accent-color			: #006ff2;
 	--white-color			: #FFFFFF;
 	--divider-color			: #FFFFFF1F;
 	--dark-divider-color	: #0E384C1A;
@@ -2174,6 +2174,7 @@ footer.main-footer{
 
 .footer-logo{
 	margin-bottom: 35px;
+	filter: brightness(0) invert(1);
 }
 
 .footer-logo img{
