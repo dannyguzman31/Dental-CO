@@ -686,7 +686,7 @@ header.main-header .header-sticky.active {
 }
 
 /************************************/
-/*** 	 3B. Language Switcher	  ***/
+/*** 	 03-B. Language Switcher	  ***/
 /************************************/
 
 .language-switcher {
@@ -710,6 +710,39 @@ header.main-header .header-sticky.active {
   color: #777;
 }
 
+/************************************/
+/*** 	 03-C. Modal css	  ***/
+/************************************/
+.promo-modal {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  padding-top: 60px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+.promo-modal-content {
+  display: block;
+  margin: auto;
+  max-width: 90%;
+  max-height: 85vh;
+  border-radius: 12px;
+}
+
+.close-modal {
+  position: absolute;
+  top: 20px;
+  right: 40px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
 /************************************/
 /***        04. Hero css	      ***/
 /************************************/
