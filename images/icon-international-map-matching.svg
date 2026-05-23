@@ -1,0 +1,14 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="#0d6efd" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <!-- Folded map -->
+    <path d="M10 14L18 11L30 15L38 12V34L30 37L18 33L10 36V14Z"/>
+
+    <!-- Map folds -->
+    <path d="M18 11V33"/>
+    <path d="M30 15V37"/>
+
+    <!-- Location pin -->
+    <path d="M24 20C21.8 20 20 21.8 20 24C20 27 24 31 24 31C24 31 28 27 28 24C28 21.8 26.2 20 24 20Z"/>
+    <circle cx="24" cy="24" r="1.5"/>
+  </g>
+</svg>

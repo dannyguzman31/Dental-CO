@@ -711,7 +711,7 @@ header.main-header .header-sticky.active {
 }
 
 /************************************/
-/*** 	 03-C. Modal css	  ***/
+/******** 	 03-C. Modal css	 ******/
 /************************************/
 .promo-modal {
   display: none;
@@ -743,6 +743,49 @@ header.main-header .header-sticky.active {
   font-weight: bold;
   cursor: pointer;
 }
+
+/************************************/
+/***** 03-D. Google Review css	  ***/
+/************************************/
+
+/* Google Review Arrows */
+.google-review-widget .es-review-carousel-layout-pagination-button {
+  background: #1673ea !important;
+  border-radius: 50% !important;
+  width: 42px !important;
+  height: 42px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  box-shadow: 0 4px 12px rgba(22, 115, 234, 0.25);
+  transition: all 0.3s ease;
+}
+
+/* Arrow icon color */
+.google-review-widget .es-review-carousel-layout-pagination-button svg path {
+  fill: #ffffff !important;
+}
+
+/* Hover effect */
+.google-review-widget .es-review-carousel-layout-pagination-button:hover {
+  background: #0f5fd1 !important;
+  transform: scale(1.05);
+}
+
+/* Left button position */
+.google-review-widget .es-review-carousel-layout-pagination-button-prev {
+  left: 10px !important;
+}
+
+/* Right button position */
+.google-review-widget .es-review-carousel-layout-pagination-button-next {
+  right: 10px !important;
+}
+
+.google-review-widget * {
+  --es-accent-color: #1673ea !important;
+}
+
 /************************************/
 /***        04. Hero css	      ***/
 /************************************/

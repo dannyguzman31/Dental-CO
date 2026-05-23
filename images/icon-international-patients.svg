@@ -1,0 +1,24 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0_international_patients)">
+    <!-- Globe outline -->
+    <path d="M24 4.5C13.23 4.5 4.5 13.23 4.5 24S13.23 43.5 24 43.5 43.5 34.77 43.5 24 34.77 4.5 24 4.5Z" stroke="#1E84B5" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Globe latitude lines -->
+    <path d="M7.2 17.3H40.8" stroke="#1E84B5" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M7.2 30.7H40.8" stroke="#1E84B5" stroke-width="1.8" stroke-linecap="round"/>
+    <!-- Globe longitude lines -->
+    <path d="M24 4.5C18.7 10.1 16.2 16.4 16.2 24C16.2 31.6 18.7 37.9 24 43.5" stroke="#0E384C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M24 4.5C29.3 10.1 31.8 16.4 31.8 24C31.8 31.6 29.3 37.9 24 43.5" stroke="#0E384C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Location pin / patient marker -->
+    <path d="M30.6 14.2C27.25 14.2 24.55 16.9 24.55 20.25C24.55 24.75 30.6 31.3 30.6 31.3C30.6 31.3 36.65 24.75 36.65 20.25C36.65 16.9 33.95 14.2 30.6 14.2Z" fill="white" stroke="#0E384C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M30.6 22.35C31.82 22.35 32.8 21.37 32.8 20.15C32.8 18.93 31.82 17.95 30.6 17.95C29.38 17.95 28.4 18.93 28.4 20.15C28.4 21.37 29.38 22.35 30.6 22.35Z" fill="#1E84B5"/>
+    <!-- Welcome check mark -->
+    <path d="M14.1 25.15L17.25 28.3L22.7 22.85" stroke="#0E384C" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Small sparkle accent -->
+    <path d="M38.4 8.8L39.15 11.05L41.4 11.8L39.15 12.55L38.4 14.8L37.65 12.55L35.4 11.8L37.65 11.05L38.4 8.8Z" fill="#1E84B5"/>
+  </g>
+  <defs>
+    <clipPath id="clip0_international_patients">
+      <rect width="48" height="48" fill="white"/>
+    </clipPath>
+  </defs>
+</svg>

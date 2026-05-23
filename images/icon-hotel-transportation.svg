@@ -1,0 +1,19 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="#0d6efd" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" fill="none">
+
+    <!-- Hotel -->
+    <rect x="8" y="14" width="14" height="20" rx="2"/>
+    <path d="M12 18H18"/>
+    <path d="M12 22H18"/>
+    <path d="M12 26H18"/>
+    <path d="M15 34V30"/>
+
+    <!-- Car -->
+    <path d="M28 28L31 22H39L42 28"/>
+    <path d="M28 28H42"/>
+    <circle cx="31" cy="31" r="2"/>
+    <circle cx="39" cy="31" r="2"/>
+    <path d="M30 22L33 18H37L40 22"/>
+
+  </g>
+</svg>

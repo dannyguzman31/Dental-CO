@@ -1,0 +1,38 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="#0D8BCE" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <!-- Hotel building -->
+    <path d="M8 39H27"/>
+    <rect x="10" y="13" width="15" height="26" rx="2"/>
+    <path d="M13 13V9C13 8.4 13.4 8 14 8H21C21.6 8 22 8.4 22 9V13"/>
+
+    <!-- Stars -->
+    <path d="M15 10.2L15.4 11L16.3 11.1L15.7 11.7L15.9 12.6L15 12.2L14.1 12.6L14.3 11.7L13.7 11.1L14.6 11L15 10.2Z" fill="#0D8BCE" stroke="none"/>
+    <path d="M17.5 9.8L17.9 10.6L18.8 10.7L18.1 11.3L18.3 12.2L17.5 11.8L16.7 12.2L16.9 11.3L16.2 10.7L17.1 10.6L17.5 9.8Z" fill="#0D8BCE" stroke="none"/>
+    <path d="M20 10.2L20.4 11L21.3 11.1L20.7 11.7L20.9 12.6L20 12.2L19.1 12.6L19.3 11.7L18.7 11.1L19.6 11L20 10.2Z" fill="#0D8BCE" stroke="none"/>
+
+    <!-- Windows -->
+    <path d="M14 18H16"/>
+    <path d="M19 18H21"/>
+    <path d="M14 23H16"/>
+    <path d="M19 23H21"/>
+    <path d="M14 28H16"/>
+    <path d="M19 28H21"/>
+
+    <!-- Door -->
+    <path d="M16 39V33C16 32.4 16.4 32 17 32H20C20.6 32 21 32.4 21 33V39"/>
+
+    <!-- Car body -->
+    <path d="M28 39H43"/>
+    <path d="M29 32H43C44.1 32 45 32.9 45 34V38C45 38.6 44.6 39 44 39H28C27.4 39 27 38.6 27 38V34C27 32.9 27.9 32 29 32Z"/>
+    <path d="M30.5 32L33 25.5C33.3 24.6 34 24 35 24H39C40 24 40.7 24.6 41 25.5L43.5 32"/>
+
+    <!-- Car details -->
+    <path d="M31 35H34"/>
+    <path d="M40 35H43"/>
+    <path d="M35.5 36H38.5"/>
+
+    <!-- Wheels -->
+    <circle cx="32" cy="39" r="2.5"/>
+    <circle cx="40" cy="39" r="2.5"/>
+  </g>
+</svg>
