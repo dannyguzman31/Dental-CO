@@ -1936,7 +1936,7 @@ header.main-header .header-sticky.active {
 .team-social-icon ul li a:hover {
   background: var(--accent-color);
 }
-
+/* added to fix team images to be too narrow to the left */
 @media (max-width: 767px) {
   .our-team .row {
     margin-left: 0;
