@@ -1937,6 +1937,24 @@ header.main-header .header-sticky.active {
   background: var(--accent-color);
 }
 
+@media (max-width: 767px) {
+  .our-team .row {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .our-team [class*='col-'] {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .team-member-item {
+    max-width: 340px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
 /************************************/
 /***   11. Our Testimonials Css   ***/
 /************************************/
