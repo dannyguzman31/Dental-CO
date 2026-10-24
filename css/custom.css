@@ -5466,3 +5466,13 @@ footer.main-footer {
     font-size: 28px;
   }
 }
+
+/* Prevent scrolling beyond page boundaries */
+html,
+body {
+  overscroll-behavior-y: none;
+}
+
+html {
+  overflow-x: clip;
+}
